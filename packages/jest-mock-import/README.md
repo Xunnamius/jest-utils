@@ -18,14 +18,14 @@
 
 <!-- prettier-ignore-end -->
 
-# @xunnamius/jest-run
+# @xunnamius/jest-mock-import
 
 <!-- TODO -->
 
 ## Install
 
 ```bash
-npm install --save-dev @xunnamius/jest-run
+npm install --save-dev @xunnamius/jest-mock-import
 ```
 
 ## Usage
@@ -71,7 +71,7 @@ information.
   'Is this package well-tested?'
 [link-codecov]: https://codecov.io/gh/Xunnamius/jest-utils
 [badge-license]:
-  https://img.shields.io/npm/l/@xunnamius/jest-run
+  https://img.shields.io/npm/l/@xunnamius/jest-mock-import
   "This package's source license"
 [link-license]: https://github.com/Xunnamius/jest-utils/blob/main/LICENSE
 [badge-fossa]:
@@ -80,19 +80,19 @@ information.
 [link-fossa]:
   https://app.fossa.com/projects/custom+27276%2Fgit@github.com:Xunnamius%2Fjest-utils.git
 [badge-npm]:
-  https://api.ergodark.com/badges/npm-pkg-version/@xunnamius/jest-run
+  https://api.ergodark.com/badges/npm-pkg-version/@xunnamius/jest-mock-import
   'Install this package using npm or yarn!'
-[link-npm]: https://www.npmjs.com/package/@xunnamius/jest-run
+[link-npm]: https://www.npmjs.com/package/@xunnamius/jest-mock-import
 [badge-semantic-release]:
   https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
   'This repo practices continuous integration and deployment!'
 [link-semantic-release]: https://github.com/semantic-release/semantic-release
-[badge-size]: https://badgen.net/bundlephobia/minzip/@xunnamius/jest-run
+[badge-size]: https://badgen.net/bundlephobia/minzip/@xunnamius/jest-mock-import
 [badge-tree-shaking]:
-  https://badgen.net/bundlephobia/tree-shaking/@xunnamius/jest-run
+  https://badgen.net/bundlephobia/tree-shaking/@xunnamius/jest-mock-import
   'Is this package optimized for Webpack?'
 [link-bundlephobia]:
-  https://bundlephobia.com/result?p=@xunnamius/jest-run
+  https://bundlephobia.com/result?p=@xunnamius/jest-mock-import
   'Package size (minified and gzipped)'
 [package-json]: package.json
 [docs]: docs
