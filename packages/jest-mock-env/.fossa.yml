@@ -1,6 +1,6 @@
 version: 3
 project:
-  name: jest-utils (monorepo)
+  name: jest-mock-env
 targets:
   only:
     - type: npm
