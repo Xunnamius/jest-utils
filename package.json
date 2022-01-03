@@ -1,7 +1,7 @@
 {
-  "name": "jest-utils",
+  "name": "jest-utils-monorepo",
   "workspaces": [
-    "packages/jest-isolated-import",
+    "packages/jest-mock-import",
     "packages/jest-mock-argv",
     "packages/jest-mock-env",
     "packages/jest-mock-exit",
