@@ -1,5 +1,5 @@
 {
-  "name": "@xunnamius/jest-isolated-import",
+  "name": "@xunnamius/jest-mock-import",
   "version": "0.0.0-development",
   "description": "A Jest helper that wraps require, ensuring each import/require invocation is performed without caching",
   "keywords": [
@@ -29,7 +29,7 @@
   },
   "main": "./dist/cjs/index.js",
   "module": "./dist/bundle/index.mjs",
-  "types": "./dist/types/packages/jest-isolated-import/src/index.d.ts",
+  "types": "./dist/types/packages/jest-mock-import/src/index.d.ts",
   "files": [
     "/dist",
     "/LICENSE",
