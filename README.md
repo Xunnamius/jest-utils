@@ -42,8 +42,8 @@ project][link-repo] to let me know you found it useful! ✊🏿 Thank you!
 See [CONTRIBUTING.md][contributing] and [SUPPORT.md][support] for more
 information.
 
-[badge-blm]: https://api.ergodark.com/badges/blm 'Join the movement!'
-[link-blm]: https://secure.actblue.com/donate/ms_blm_homepage_2019
+[badge-blm]: https://xunn.at/badge-blm 'Join the movement!'
+[link-blm]: https://xunn.at/donate-blm
 [link-repo]: https://github.com/xunnamius/jest-utils
 [badge-last-commit]:
   https://img.shields.io/github/last-commit/xunnamius/jest-utils
