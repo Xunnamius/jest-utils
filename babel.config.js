@@ -41,9 +41,7 @@ module.exports = {
   parserOpts: { strictMode: true },
   plugins: [
     '@babel/plugin-proposal-export-default-from',
-    '@babel/plugin-proposal-function-bind',
-    '@babel/plugin-proposal-nullish-coalescing-operator',
-    '@babel/plugin-transform-typescript'
+    '@babel/plugin-proposal-nullish-coalescing-operator'
   ],
   // ? Sub-keys under the "env" config key will augment the above
   // ? configuration depending on the value of NODE_ENV and friends. Default
